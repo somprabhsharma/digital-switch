@@ -4,6 +4,6 @@ This project is about controlling the devices using phones, smart watch and othe
 - Then you need to create an API server which connects your endpoint devices with the AWS IOT.
 - Finally, you need to create the frontend Apps for you endpoint devices.
 
-#Architecture
+#### Architecture
 
 ![architecture](https://farm6.staticflickr.com/5811/23273769223_df780f6cd4_b.jpg)
